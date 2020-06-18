@@ -1,0 +1,45 @@
+
+body {
+  font-family:Helvetica, Arial, sans-serif;
+  background-color:#e6e6e6;
+  border: 1px solid #330000;
+  width:400px;
+  hight:600px;
+  margin:250px 600px;
+}
+
+button {
+  background-color:#1a6600;
+  color: white;
+  padding: 15px 20px;
+  margin: 0;
+  cursor: pointer;
+  width: 80%;
+  font-weight: bold;
+}
+
+input {
+  background-color:#ffffff;
+  color: black;
+  padding: 11px 10px;
+  margin: 0;
+  width: 75%;
+  font-weight: bold;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.Facebook {
+  background-color:blue;
+}
+.Google {
+  background-color:red;
+}
+.log_in {
+  padding:5px 0;
+}
+.log {
+  text-decoration: none;  /* remove underline */
+}
